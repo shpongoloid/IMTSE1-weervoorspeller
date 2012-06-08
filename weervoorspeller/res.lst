@@ -1,0 +1,12 @@
+.res RES_FONT
+.bin
+.include "font.mof"
+
+.res RES_SELECTED
+.image "background_tile_sel.png"
+
+.res RES_UNSELECTED
+.image "background_tile_unsel.png"
+
+.res RES_IMAGE
+.image "image.jpg"
